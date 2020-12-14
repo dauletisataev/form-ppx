@@ -1,2 +1,3 @@
-let fourtyTwo = string_of_int([%gimme]);
+let fourtyTwo = [%some_text];
 Js.log(fourtyTwo);
+
